@@ -456,7 +456,7 @@ A amplitude de movimentos do ombro direito foi avaliada conforme ilustrado na Im
 
 Registramos os seguintes resultados: 
 
-![Tabela VI - Avaliação Ombro Direito NAO](img/tabela_6_nao.png)
+![Tabela VI - Avaliação Ombro Direito NAO](img/tabela_6.png)
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
 
@@ -464,10 +464,123 @@ Ombros - LShoulderPitch
 
 A amplitude de movimentos do ombro esquerdo foi avaliada conforme ilustrado na Imagem 2 (diagrama de amplitude angular do ombro).
 
-![Imagem VI - Ombro Direito NAO](img/img_5_nao.png)
+![Imagem VI - Ombro Esquerdo NAO](img/img_5_nao.png)
 
 Os resultados registrados foram.
 
-![Tabela VII - Avaliação Ombro Esquerdo NAO](img/tabela_7_nao.png)
+![Tabela VII - Avaliação Ombro Esquerdo NAO](img/tabela_7.png)
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Joelhos - RKneePitch 
+
+A amplitude de movimentos do joelho direito foi avaliada conforme ilustrado na Imagem 3 (diagrama de amplitude angular do joelho).
+
+![Imagem VII - Ombro Direito NAO](img/img_6_nao.png)
+
+Os resultados foram.
+
+![Tabela VIII - Avaliação Joelho Direito NAO](img/tabela_8.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Joelhos – LKneePitch 
+
+A amplitude de movimentos do joelho esquerdo foi avaliada conforme ilustrado na Imagem 3 (diagrama de amplitude angular do joelho).  
+
+![Imagem VIII - Joelho Esquerdo  NAO](img/img_7_nao.png)
+
+Obtivemos os resultados. 
+
+![Tabela IX - Avaliação Joelho Esquerdo NAO](img/tabela_9.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Cotovelos - LElbowYaw 
+
+A amplitude de movimentos do cotovelo esquerdo foi avaliada conforme ilustrado na Imagem 4 (diagrama de amplitude angular do cotovelo).
+
+![Imagem VIII - Joelho Esquerdo  NAO](img/img_5_nao.png)
+
+Os resultados foram.
+
+![Tabela IX - Avaliação Ombro Esquerdo  NAO](img/tabela_10.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Cotovelos – RElbowYaw 
+
+A amplitude de movimentos do cotovelo direito foi avaliada conforme ilustrado na Imagem 4 (diagrama de amplitude angular do cotovelo).
+
+![Imagem IX - Cotovelo Direito  NAO](img/img_4_nao.png)
+
+Os resultados foram.
+
+![Tabela X - Avaliação Cotovelo Direito  NAO](img/tabela_11.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Cotovelo - RElbowRoll 
+
+A amplitude de movimentos do cotovelo direito foi avaliada conforme ilustrado na Imagem 4 (diagrama de amplitude angular do cotovelo).
+
+![Imagem X - Cotovelo Direito  NAO](img/img_4_nao.png)
+
+Os resultados foram.
+
+![Tabela XI - Avaliação Cotovelo Direito  NAO](img/tabela_12.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Cotovelo – LElbowRoll 
+
+A amplitude de movimentos do cotovelo esquerdo foi avaliada conforme ilustrado na Imagem 4 (diagrama de amplitude angular do cotovelo).
+
+![Imagem XI - Cotovelo Esquerdo  NAO](img/img_5_nao.png)
+
+Os resultados foram.
+
+![Tabela XII - Avaliação Cotovelo Esquerdo  NAO](img/tabela_13.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.  
+
+Quadris - LHipPitch 
+
+A amplitude de movimentos do quadril esquerdo foi avaliada conforme ilustrado na Imagem 5 (diagrama de amplitude angular do quadril).
+
+![Imagem XII - Quadril  NAO](img/img_7_nao.png)
+
+Os resultados foram.
+
+![Tabela XIV - Avaliação Quadril Esquerdo  NAO](img/tabela_14.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Quadris - RHipPitch 
+
+A amplitude de movimentos do quadril direito foi avaliada conforme ilustrado na Imagem 5 (diagrama de amplitude angular do quadril). 
+
+![Imagem XIII - Quadril Direito NAO](img/img_6_nao.png)
+
+Os resultados foram.
+
+![Tabela XV - Avaliação Quadril Direito  NAO](img/tabela_15.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Quadris - RHipRoll 
+
+A amplitude de movimentos do quadril direito foi avaliada conforme ilustrado na Imagem 5 (diagrama de amplitude angular do quadril). 
+
+![Imagem XIII - Quadril Esquerdo NAO](img/img_6_nao.png)
+
+Os resultados foram.
+
+![Tabela XV - Avaliação Quadril Direito  NAO](img/tabela_17.png)
+
+Quadris - LHipRoll 
+
+A amplitude de movimentos do quadril esquerdo foi avaliada conforme ilustrado na Imagem 5 (diagrama de amplitude angular do quadril). 
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
