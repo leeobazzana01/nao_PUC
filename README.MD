@@ -194,11 +194,11 @@ Espera-se obter uma matriz detalhada de capacidades operacionais que documente p
 
 Inicialmente, utilizou-se a documentação oficial para que, partindo dos modelos disponíveis, fossem extraídas informações importantes a respeito do modelo. Partindo das semelhanças entre o robô e os modelos, levantou-se a hipótese de que a versão compatível era a V5. 
 
+![Imagem I - Cabeça da Versão 5 NAO](img/img_1_nao.png)
+
+![Imagem II - Estrutura Corporal Versão 5 NAO](img/img_2_nao.png)
+
 Além disso, utilizou-se um método disponível na API para avaliar com mais detalhes as especificações do modelo. 
-
-#### ESPECIFICAÇÕES DO MODELO 
-
-[Dados técnicos a serem preenchidos após identificação completa] 
 
 ### 5.1.2 Instalação de Ferramentas e Configurações Iniciais 
 
@@ -375,3 +375,99 @@ Reinicie o robô
 Verifique novamente as credenciais de rede 
 
 Tente o acesso via cabo Ethernet antes de configurar novamente o Wi-Fi
+
+### 5.1.2 Matriz das Funcionalidades Operantes 
+
+#### 5.1.2.0 Testes de Sensores Básicos 
+
+Bateria – Autonomia de Carga (Prioridade Máxima)
+
+Adotando como parâmetro a documentação oficial Aldebaran, as especificações da bateria foram consultadas para base de comparação. Com as especificações, realizamos testes para avaliar a durabilidade da bateria, registrados abaixo.
+
+
+![Tabela II - Especificações de Fábrica Bateria](img/tabela_2.png)
+
+Com as especificações, realizamos testes para avaliar a durabilidade da Bateria, registrados abaixo.
+
+![Tabela III - Autonomia Bateria](img/tabela_3.png)  
+
+ 
+Nós testamos a autonomia da bateria, verificando quanto tempo seria necessário para ela se descarregar por completo, partindo de 100% de capacidade. Em todos os casos, registrou-se uma autonomia de 10 minutos, e o desligamento automático da plataforma após esse período. Portanto, o cálculo do rendimento percentual foi realizado abaixo, onde: 
+
+P → Percentual de autonomia da bateria (%) 
+
+Cₐ → Carga atual disponível (minutos) 
+
+Cₜ → Capacidade total da bateria (minutos) 
+
+![Imagem III - Percentual Autonomia Bateria](img/formula_nao.png)
+
+Em todos os três testes, registrou-se o mesmo percentual de autonomia. Considerando que o estado inoperante utiliza o valor zero (0), o mais adequado é classificar a bateria como parcialmente operante, uma vez que seu funcionamento se dá de maneira parcialmente comprometida. 
+
+Outros Sensores Básicos Testados Futuramente: 
+
+1. Bateria - Temperatura (Prevenção de Danos) 
+
+2. Cabeça - Temperatura da CPU 
+
+3. Sensor Inercial - Giroscópio (Eixos X, Y, Z) 
+
+4. Sensor Inercial - Acelerômetro (Eixos X, Y, Z) 
+
+5. Sensor Inercial - Ângulo (Eixos X, Y) 
+
+6. Cabeça - Sensores Táteis (Frontal, Traseiro, Central) 
+
+7. ChestBoard - Botão do Peito 
+
+### 5.1.2 Matriz das Funcionalidades Operantes 
+
+#### 5.1.2.1 Testes de Juntas Unitárias 
+
+Cabeça - HeadYaw (Rotação Horizontal) 
+
+Considerando a amplitude do movimento HeadYaw, conforme ilustrado na Imagem 4 (diagrama de amplitude angular da cabeça).
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_3_nao.png)
+ 
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_4.png)
+
+Portanto, com os resultados registrados, evidencia-se total amplitude nos movimentos de Yaw da Cabeça, podendo-se considerar que o estado é totalmente funcional (classificação 2). 
+
+Cabeça - HeadPitch (Inclinação Vertical) 
+
+Considerando a amplitude do movimento HeadPitch, conforme ilustrado na Imagem 4 (diagrama de amplitude angular da cabeça). 
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_3_nao.png)
+ 
+Os resultados foram.
+
+![Tabela V - Avaliação Movimentos da Cabeça](img/tabela_5.png)
+
+Portanto, com os resultados registrados, evidencia-se total amplitude nos movimentos de Pitch da Cabeça, podendo-se considerar que o estado é totalmente funcional (classificação 2). 
+
+Ombros – RShoulderPitch 
+
+A amplitude de movimentos do ombro direito foi avaliada conforme ilustrado na Imagem 2 (diagrama de amplitude angular do ombro). 
+
+![Imagem V - Ombro Direito NAO](img/img_4_nao.png)
+
+Registramos os seguintes resultados: 
+
+![Tabela VI - Avaliação Ombro Direito NAO](img/tabela_6_nao.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
+
+Ombros - LShoulderPitch 
+
+A amplitude de movimentos do ombro esquerdo foi avaliada conforme ilustrado na Imagem 2 (diagrama de amplitude angular do ombro).
+
+![Imagem VI - Ombro Direito NAO](img/img_5_nao.png)
+
+Os resultados registrados foram.
+
+![Tabela VII - Avaliação Ombro Esquerdo NAO](img/tabela_7_nao.png)
+
+Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
