@@ -84,7 +84,9 @@ A identificação da versão específica do robô NAO será realizada seguindo p
 
 Cada componente será classificado conforme seu estado operacional, avaliando em três níveis: 0 (inoperante), 1 (parcialmente funcional) e 2 (totalmente funcional), com documentação detalhada de desempenho. 
 
-Será desenvolvida uma tabela com a Matriz abrangente para avaliação sistemática de cada subsistema do NAO, organizada nas seguintes categorias: 
+Será desenvolvida uma tabela com a Matriz abrangente para avaliação sistemática de cada subsistema do NAO, organizada nas seguintes categorias. 
+
+![Tabela I - Estruturação Geral das Tabelas](img/tabela_1.png)
 
 ### 4.2.3 Matriz de Capacidades Operacionais em Camadas 
 
