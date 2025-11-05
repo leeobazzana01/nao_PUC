@@ -540,7 +540,8 @@ A amplitude de movimentos do cotovelo esquerdo foi avaliada conforme ilustrado n
 
 Os resultados foram.
 
-![Tabela XII - Avaliação Cotovelo Esquerdo  NAO](img/tabela_13.png)
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_13.png)
+
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.  
 
@@ -585,138 +586,200 @@ A amplitude de movimentos do quadril esquerdo foi avaliada conforme ilustrado na
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2. 
 
 Quadris - LHipRoll
+
 A amplitude de movimentos do quadril esquerdo foi avaliada conforme ilustrado na Imagem 5 (diagrama de amplitude angular do quadril). Os resultados registrados foram:
 
-https://img/tabela_16.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_7_nao.png)
 
-Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_18.png)
+
 
 Punhos - LWristYaw
+
 A amplitude de movimentos do punho esquerdo foi avaliada conforme ilustrado na Imagem 6 (diagrama de amplitude angular do punho). Os resultados registrados foram:
 
-https://img/img_8_nao.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_9_nao.png)
 
-https://img/tabela_17.png
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_19.png)
+
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.
 
 Punhos - RWristYaw
+
 A amplitude de movimentos do punho direito foi avaliada conforme ilustrado na Imagem 6 (diagrama de amplitude angular do punho). Os resultados registrados foram:
 
-https://img/tabela_18.png
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_20.png)
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.
 
 Mãos - RHand
 A amplitude de movimentos da mão direita foi avaliada conforme ilustrado na Imagem 7 (diagrama de amplitude angular da mão). Os resultados registrados foram:
 
-https://img/img_11_nao.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_9_nao.png)
 
-https://img/tabela_20.png
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_21.png)
+
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.
 
 Mãos - LHand
-A amplitude de movimentos da mão esquerda foi avaliada conforme ilustrado na Imagem 7 (diagrama de amplitude angular da mão). Os resultados registrados foram:
 
-https://img/tabela_19.png
+A amplitude de movimentos da mão esquerda foi avaliada conforme ilustrado na Imagem 7 (diagrama de amplitude angular da mão). 
+
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_9_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_22.png)
+
 
 Os testes comprovam o estado totalmente funcional do movimento e da junta. A classificação correta é 2.
 
 Tornozelos - RAnklePitch
-Parametrizando a documentação oficial da Aldebaran, realizou-se uma avaliação das juntas do tornozelo direito. A amplitude de movimentos foi avaliada conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). Os resultados obtidos foram:
 
-https://img/img_13_nao.png
+Parametrizando a documentação oficial da Aldebaran, realizou-se uma avaliação das juntas do tornozelo direito. A amplitude de movimentos foi avaliada conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). 
 
-https://img/tabela_22.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_6_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_23.png)
 
 A identificação do comprometimento nos movimentos de Pitch está associada a danificações no funcionamento da engrenagem responsável por esse movimento. O comprometimento na amplitude afeta o equilíbrio do robô, resultando em quedas durante a execução de movimentos que transferem peso para a perna direita. Conclui-se que há comprometimento no movimento de Pitch do Tornozelo Direito, com estado de funcionamento classificado como 1 (parcialmente funcional).
 
 Tornozelos - LAnklePitch
-O tornozelo esquerdo foi testado avaliando a amplitude dos graus de movimento com base na documentação oficial, conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). Os resultados registrados foram:
 
-https://img/tabela_21.png
+O tornozelo esquerdo foi testado avaliando a amplitude dos graus de movimento com base na documentação oficial, conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). 
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_7_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_24.png)
 
 Os testes mostraram que não há comprometimento no movimento de Pitch do tornozelo esquerdo, obtendo-se amplitude de execução ideal. Classificação: 2 (totalmente funcional).
 
 Tornozelos - RAnkleRoll
-Os graus de amplitude do movimento Roll na junta do tornozelo direito foram avaliados conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). Os resultados obtidos foram:
 
-https://img/tabela_24.png
+Os graus de amplitude do movimento Roll na junta do tornozelo direito foram avaliados conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). 
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_6_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_25.png)
+
 
 Os resultados evidenciam comprometimento no movimento de Roll do Tornozelo Direito, atingindo amplitude máxima de 38,1° quando o ideal seria 44°. Classificação: 1 (parcialmente operante).
 
 Tornozelos - LAnkleRoll
-Os graus de amplitude do movimento Roll na junta do tornozelo esquerdo foram avaliados conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). Os resultados obtidos foram:
 
-https://img/tabela_23.png
+Os graus de amplitude do movimento Roll na junta do tornozelo esquerdo foram avaliados conforme ilustrado na Imagem 8 (diagrama de amplitude angular do tornozelo). 
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_7_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_26.png)
+
 
 Os resultados mostram amplitude próxima do ideal para o movimento de Roll do tornozelo esquerdo. Classificação: 2 (totalmente funcional).
 
-5.1.2.3 Testes de Sensores de Toque
+#### 5.1.2.3 Testes de Sensores de Toque
+
 Cabeça - Sensores Táteis
-Os componentes do sensor da cabeça foram testados conforme ilustrado na Imagem 9 (diagrama de sensores táteis da cabeça). Os resultados registrados foram:
 
-https://img/img_8_nao.png
+Os componentes do sensor da cabeça foram testados conforme ilustrado na Imagem 9 (diagrama de sensores táteis da cabeça). 
 
-https://img/tabela_25.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_8_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_26.png)
 
 Com os resultados registrados, evidencia-se o funcionamento adequado dos sensores táteis da cabeça, com estado classificado como totalmente funcional (2).
 
 Mãos - Sensores Táteis Esquerda
-Os sensores táteis da mão esquerda foram testados conforme ilustrado na Imagem 10 (diagrama de sensores táteis das mãos). Os resultados registrados foram:
 
-https://img/img_9_nao.png
+Os sensores táteis da mão esquerda foram testados conforme ilustrado na Imagem 10 (diagrama de sensores táteis das mãos). 
 
-https://img/tabela_26.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_9_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_27.png)
 
 Registrou-se um comportamento parcialmente funcional nos sensores laterais da mão esquerda, justificando a classificação de estado como parcialmente operante (1).
 
 Mãos - Sensores Táteis Direita
+
 Os sensores táteis da mão direita foram testados conforme ilustrado na Imagem 10 (diagrama de sensores táteis das mãos). Os resultados registrados foram:
 
-https://img/tabela_27.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_9_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_28.png)
 
 Os testes constataram comprometimento nos sensores da mão direita. Apenas o sensor traseiro registrou atividade, porém com percentual de sucesso reduzido. O estado foi classificado como parcialmente operante (1).
 
 Bumpers - Pés
-Os sensores dos pés (bumpers) foram testados conforme ilustrado na Imagem 11 (diagrama de sensores dos pés). Os resultados registrados foram:
 
-https://img/img_14_nao.png
+Os sensores dos pés (bumpers) foram testados conforme ilustrado na Imagem 11 (diagrama de sensores dos pés). 
 
-https://img/tabela_28.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_10_nao.png)
+
+![Imagem IV - Especificações da Cabeça NAO](img/img_11_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_29.png)
 
 Os resultados comprovam que não há comprometimento nos bumpers, com estado classificado como totalmente funcional (2).
 
 Botão do Peito (Chest Button)
-O botão do peito foi testado conforme ilustrado na Imagem 12 (diagrama do botão do peito). Os resultados registrados foram:
 
-https://img/img_10_nao.png
+O botão do peito foi testado conforme ilustrado na Imagem 12 (diagrama do botão do peito). 
 
-https://img/tabela_29.png
+![Imagem IV - Especificações da Cabeça NAO](img/img_12_nao.png)
+
+Os resultados foram.
+
+![Tabela IV - Avaliação Movimentos da Cabeça](img/tabela_30.png)
 
 Os testes comprovam funcionamento completo do botão do peito, com estado classificado como totalmente funcional (2).
 
-5.1.2.4 Testes de Sensores de LEDs
-LEDs dos Olhos (EYES)
-[Conteúdo a ser desenvolvido]
+#### 5.1.2.4 Testes de Sensores de LEDs
 
-5.1.2.5 Testes de Sensores Especializados
+LEDs dos Olhos (EYES)
+
+#### 5.1.2.5 Testes de Sensores Especializados
 FSR - Peso Total (Pé Esquerdo e Direito)
 FSR - Centro de Pressão (Coordenadas X e Y)
 Sonares - Detecção de Obstáculos (Esquerdo e Direito)
-5.1.2.6 Testes de Funcionalidades do Software Choregraphe
-5.1.2.6.1 Animações
-5.1.2.6.2 Diálogo
-5.1.2.6.3 LEDs
-5.1.2.6.4 Multimídia
-5.1.2.6.5 Movimento
-5.1.2.6.6 Sensoriamento
-5.1.2.6.7 Programação
-5.2 Análise de Viabilidade Técnica
+
+#### 5.1.2.6 Testes de Funcionalidades do Software Choregraphe
+#### 5.1.2.6.1 Animações
+#### 5.1.2.6.2 Diálogo
+#### 5.1.2.6.3 LEDs
+#### 5.1.2.6.4 Multimídia
+#### 5.1.2.6.5 Movimento
+#### 5.1.2.6.6 Sensoriamento
+#### 5.1.2.6.7 Programação
+#### 5.2 Análise de Viabilidade Técnica
+
 Considerando a matriz completa de capacidades operacionais obtida através da metodologia de verificação e validação, foi possível realizar uma análise abrangente da viabilidade técnica da plataforma NAO disponível. A avaliação considerou todos os sistemas testados:
 
-5.2.1 Estado Geral dos Sistemas
+#### 5.2.1 Estado Geral dos Sistemas
+
 O diagnóstico completo revelou um cenário heterogêneo quanto à operacionalidade dos componentes:
 
 Sistemas Totalmente Operacionais (87%): A maioria das juntas da cabeça, braços e parte superior do tronco apresenta funcionamento dentro dos parâmetros especificados pela documentação oficial. Os sensores táteis da cabeça, bumpers dos pés e botão do peito demonstram 100% de funcionalidade.
@@ -725,7 +788,8 @@ Sistemas Parcialmente Operacionais (9%): Foram identificados comprometimentos es
 
 Sistemas Críticos (4%): A bateria apresenta o comprometimento mais significativo, operando com apenas 12,2% de sua capacidade nominal, limitando sessões de uso a aproximadamente 10 minutos.
 
-5.2.2 Impacto nas Aplicações Práticas
+#### 5.2.2 Impacto nas Aplicações Práticas
+
 A análise técnica permite categorizar as possibilidades de implementação:
 
 Aplicações Viáveis: Atividades de curta duração que não dependam de locomoção complexa, como demonstrações estáticas, interações vocais básicas e exercícios educacionais que utilizem predominantemente a parte superior do corpo.
@@ -734,10 +798,11 @@ Aplicações Condicionais: Projetos que envolvam movimentação limitada podem s
 
 Aplicações Inválidas: Atividades que requeiram operação prolongada, locomoção dinâmica em terrenos irregulares.
 
-5.2.3 Avaliação de Confiabilidade
+#### 5.2.3 Avaliação de Confiabilidade
 O sistema apresenta confiabilidade adequada para operações controladas em ambiente laboratorial, porém requer monitoramento constante devido às limitações identificadas. A combinação dos comprometimentos no tornozelo direito e na bateria representa o principal fator de risco para operações autônomas prolongadas.
 
-5.2.4 Recomendações Técnicas
+#### 5.2.4 Recomendações Técnicas
+
 Com base no diagnóstico completo, recomenda-se:
 
 Substituição Imediata: Bateria deve ser substituída para viabilizar qualquer aplicação prática.
@@ -748,27 +813,34 @@ Manutenção Corretiva: Intervenção na Engrenagem do Tornozelo Direito e nos S
 
 A plataforma demonstra viabilidade técnica para aplicações educacionais e de pesquisa, desde que respeitadas as limitações mapeadas e implementadas as adaptações necessárias. O diagnóstico detalhado obtido permite o planejamento realista de projetos e alocação adequada de recursos para manutenção e desenvolvimento.
 
-5.3 Impacto Operacional Projetado
+### 5.3 Impacto Operacional Projetado
+
 O Estudo proposto possibilita uma análise detalhada acerca dos principais componentes da Plataforma e será muito importante para estratégias de estudo e alternativas futuras.
 
-5.4 Desafios Técnicos e Estratégias de Mitigação
+### 5.4 Desafios Técnicos e Estratégias de Mitigação
+
 Entre os desafios antecipados incluem-se: dano atual nas juntas do tornozelo direito, impossibilitando a execução de diversos movimentos (como caminhada), o super aquecimento dos motores após execução de poucas Tarefas simples (casos registrados, inclusive, comprovam o superaquecimento com o Robô parado), Autonomia da Bateria, ausência de registro de Dados em Sensores de Toque.
 
-6 CONCLUSÕES E TRABALHOS FUTUROS
-6.1 Conclusões
+## 6 CONCLUSÕES E TRABALHOS FUTUROS
+
+### 6.1 Conclusões
+
 A metodologia proposta para identificação e validação do robô NAO mostra-se como abordagem essencial para aplicações que trabalham com equipamentos de origem diversa.
 
-6.2 Contribuições
+## 6.2 Contribuições
+
 Metodológica: Desenvolvimento de uma metodologia reproduzível para diagnóstico e validação de plataformas robóticas em contextos educacionais.
 
 Prática: Geração de uma matriz de capacidades operacionais específica que serve como referência para a comunidade académica.
 
 Tecnológica: Proposta de aplicação integrada para sistemas robóticos que pode ser adaptada para diferentes disciplinas.
 
-6.3 Trabalhos Futuros
+## 6.3 Trabalhos Futuros
+
 Implementação completa do protótipo e avaliação de usabilidade com utilizadores reais; expansão da base de conhecimento para outros cursos e departamentos; desenvolvimento de sistemas de integração com plataformas acadêmicas existentes; e exploração de funcionalidades avançadas de interação multimodal.
 
-7 REFERÊNCIAS BIBLIOGRÁFICAS
+## 7 REFERÊNCIAS BIBLIOGRÁFICAS
+
 SOFTBANK ROBOTICS. Plataforma da SoftBank Robotics para Downloads. Disponível em: https://aldebaran.com/en/support/kb/nao6/downloads/nao6-software-downloads/. Acesso em: [inserir data de acesso].
 
 ALDEBARAN ROBOTICS. Documentação Oficial Aldebaran. Disponível em: http://doc.aldebaran.com/2-1/home_nao.html. Acesso em: [inserir data de acesso].
@@ -779,7 +851,8 @@ PYTHON SOFTWARE FOUNDATION. Instalação do Python e versões específicas. Disp
 
 Documentação detalhada SDK (API): http://doc.aldebaran.com/2-8/naoqi/index.html
 
-AGRADECIMENTOS
+## AGRADECIMENTOS
+
 A seção de agradecimentos se estende a um vasto contingente de profissionais, sem os quais não seria viável o desenvolvimento desse Artigo.
 
 Inicialmente, gostaria de dedicar agradecimentos especiais à Instituição: Pontifícia Universidade Católica de Minas Gerais. A estrutura física e o corpo docente fornecidos pela Universidade foram diferenciais que possibilitaram o sucesso, além de uma ótima equipe que nos auxiliou nos mais diversos aspectos, valendo-se as menções ao CRC (Centro de Recursos Computacionais) e a Infraestrutura.
